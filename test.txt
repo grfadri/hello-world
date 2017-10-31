@@ -1,12 +1,1 @@
-# hello-world
-h
-h
-h
-hallo
-<<<<<<< HEAD
-test 
-dd
-=======
-t
-wtf
->>>>>>> 6df5253428e570cda3f45e7eb030bb5e4ace8f52
+hi
