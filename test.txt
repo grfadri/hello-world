@@ -3,5 +3,10 @@ h
 h
 h
 hallo
+<<<<<<< HEAD
 test 
-d
+dd
+=======
+t
+wtf
+>>>>>>> 6df5253428e570cda3f45e7eb030bb5e4ace8f52
